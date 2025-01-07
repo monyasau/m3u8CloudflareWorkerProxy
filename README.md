@@ -24,6 +24,7 @@ searchParams.set("headers", JSON.stringify({
 }));
 ```
 
+
 ### cURL Example
 ```bash
 curl --request GET \
